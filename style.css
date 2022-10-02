@@ -143,15 +143,19 @@ footer{
     width: 700px;
     height:80px;
     padding: 20px;
+    
 }
 
-.end{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0;
-    width: 450px;
-    height: 100px;
+.press{
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 10px 10px;
+    width: max-content;
+    padding: 10px;
+    color: #f9faf8;
+    font-size: 15px;
 }
-.press
-
+h4{
+    color: #f9faf8;
+}
 
